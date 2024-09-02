@@ -4,4 +4,4 @@
 /.idea
 /.vscode
 *.log
-*.sql
+sql
